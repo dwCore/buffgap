@@ -1,0 +1,22 @@
+{
+  "name": "@dwcore/buffgap",
+  "version": "0.1.1",
+  "description": "BuffGap Compares Two Input Buffers and Finds The Gap (Difference) Between Both.",
+  "contributors": [
+    "Jared Rice Sr. <jared@dwebs.io>",
+    "Distributed Webs Project, LLC. <labs@distributedwebs.org>"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "test": "standard"
+  },
+  "dependencies": {
+    "ansi-split": "^1.0.1"
+  },
+  "devDependencies": {
+    "standard": "^10.0.3"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
